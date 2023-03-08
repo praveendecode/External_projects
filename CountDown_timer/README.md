@@ -7,6 +7,8 @@ Requirements are :
 									
 TO Work withthis project :
  
-   Step 1: download the code file and paste it in pycharm
+         Step 1: download the code file and paste it in pycharm
+   
 	 step 2: Run pycharm and you will see the pop up window thats shows the timer block , that consits start, stop and reset button ....
+	 
 	 Step 3 : quit button to stop the pop up window...
