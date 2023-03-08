@@ -3,7 +3,7 @@ A fun project using tkinter , the gui module in python ...
 Requirements are :
 					        
 	1) python software with current version 
-	2) Pycahrm editor (community version)
+	2) Pycharm editor (community version)
 									
 TO Work withthis project :
  
